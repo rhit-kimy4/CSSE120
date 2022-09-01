@@ -6,7 +6,7 @@ public class Ex04 {
 
 	public static void main(String[] args) {
 
-
+		//practice updating
 		//배열과 for문을 이용해서 3명의 이름을 입력받고 출력해보자
 		
 		Scanner scan = new Scanner(System.in);
